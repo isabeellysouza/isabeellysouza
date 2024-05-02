@@ -2,7 +2,7 @@
 
 Meu nome é isabelly souza
 
--Estou estudando no Alura.
+-Estou estudando no [Alura](https:\\www.alura.com.br)
 
 -Estou me densenvolvendo na linguagem javascript.
 
@@ -14,5 +14,4 @@ isabellybernardo280@gmail.com
 
 @isabeellysouza
 
-
-https://www.icegif.com/wp-content/uploads/2022/10/icegif-1369.gif
+![](https://media.tenor.com/Km72PBjDxAYAAAAi/kukuk-chicky.gif)
