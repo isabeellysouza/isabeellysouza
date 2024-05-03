@@ -2,7 +2,7 @@
 
 Meu nome é isabelly souza
 
--Estou estudando no [Alura](https:\\www.alura.com.br)
+-Estou estudando no [Alura](https://www.alura.com.br)
 
 -Estou me densenvolvendo na linguagem javascript.
 
